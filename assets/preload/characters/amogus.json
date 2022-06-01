@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Amogus idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Amogus left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-8
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Amogus down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Amogus up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Amogus right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Amogus",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "amogus",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
